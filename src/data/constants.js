@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a dedicated and versatile individual, passionate about software development and solving complex problems. I strive for excellence in delivering efficient and high-quality solutions. With a strong foundation in computer science and a growth mindset, I am eager to contribute meaningfully to innovative projects.",
   phoneNumber: "+91 9453636119",
-  email: "yogeshupadhyay21012002@gmail.com",
+  email: "bhaveshchand28@gmail.com",
   linkedin: "https://www.linkedin.com/in/bhavesh-upadhyay",
   github: "https://github.com/Visbhavesh",
   resume: "http://surrrrl.li/lzofi",

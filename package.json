@@ -1,7 +1,7 @@
 {
-  "name": "yogesh-chand-portfolio",
+  "name": "bhavesh-chand-portfolio",
   "version": "0.1.0",
-  "homepage": "https://yogeshChandUpadhyay.github.io",
+  "homepage": "https://bhaveshChandUpadhyay.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
